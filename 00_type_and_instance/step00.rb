@@ -5,7 +5,7 @@ message = '私は文字列型です' # String型を実体化させたもの → 
 puts my_number.class # -> Integer
 puts message.class # -> String
 
-# 文字列型には偶数かを取得できるメソッドがRubyで定義されている。
+# 数値型には偶数かを取得できるメソッドがRubyで定義されている。
 puts my_number.even? # -> true
 
 # 文字列型には文字の長さを取得できるメソッドがRubyで定義されている。
